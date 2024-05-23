@@ -2,9 +2,9 @@
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-### <span style="color: purple;">Input:</span>
-  p, Principal amount
-  t, Time period in years
+### Input:<br />
+  p, Principal amount <br />
+  t, Time period in years <br />
   r, Annual rate of interest
 
 ### Output
